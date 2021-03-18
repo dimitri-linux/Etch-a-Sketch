@@ -7,3 +7,4 @@ for (let i = 1; i < 257; i++) {
     divContainer.appendChild(divnum);
 
 }
+
