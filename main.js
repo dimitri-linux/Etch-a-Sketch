@@ -8,3 +8,9 @@ for (let i = 1; i < 257; i++) {
 
 }
 
+for (let i = 1; i < 257; i++) {
+    const div = document.getElementsByTagName('div');
+    div.addEventListener('hover', () => {
+        console.log(1);
+    })
+}
